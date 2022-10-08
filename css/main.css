@@ -35,3 +35,9 @@ body {
 .none {
   display: none;
 }
+
+@media (max-width: 400px) {
+  .a {
+    margin-top: 30px;
+  }
+}
