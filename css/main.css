@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(0, 111, 201);
+  direction: rtl;
+}
+
+.main-div {
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  transform: translate(50%, -50%);
+}
+
+.main-time {
+  font-family: "Cairo", sans-serif;
+  color: white;
+  font-size: 40px;
+}
+.q,
+.a {
+  font-family: "Cairo", sans-serif;
+  color: white;
+}
+.q {
+  margin-top: 30px;
+  padding: 10px 16px;
+  background-color: black;
+  border-radius: 20px;
+}
+.a {
+  margin-top: 80px;
+  padding: 10px 16px;
+  background-color: black;
+  border-radius: 20px;
+}
+.none {
+  display: none;
+}
