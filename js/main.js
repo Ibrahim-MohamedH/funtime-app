@@ -4,8 +4,8 @@ let answer = document.querySelector(".a")
 let button = document.querySelector("button");
 let span = document.querySelector("span");
 
-let sunrise_time = new Date("Oct 09, 2022 5:56:00").getTime();
-let sunset_time = new Date("Oct 09, 2022 17:34:00").getTime();
+let sunrise_time = new Date("Oct 10, 2022 5:55:00").getTime();
+let sunset_time = new Date("Oct 10, 2022 17:31:00").getTime();
 
 
 let counter = setInterval(() => {
